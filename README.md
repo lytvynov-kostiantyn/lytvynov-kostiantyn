@@ -36,6 +36,6 @@ Docker, Vault, Kafka, PostgreSQL, Redis, and Git.
 
 ### Language Proficiency
 
-* Native Ukrainian.\
+* Native Ukrainian.
 * Intermediate level of English.
 
