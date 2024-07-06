@@ -13,7 +13,7 @@ Docker, Vault, Kafka, PostgreSQL, Redis, and Git.
 
 ### Professional Experience
 
-* Python Developer, [BizAI bot (internship)](https://www.bizaibot.com/), 05/2023 - present
+* Python Developer, [BizAI bot (internship)](https://www.bizaibot.com/), 05/2023 - 04/2024
 * Steel Structural Engineer, 10/2013 - 11/2021
 
 ### Non-commercial Experience
